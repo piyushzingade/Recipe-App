@@ -1,12 +1,3 @@
-# Build a Recipe Finder for Your Mom | React & TailwindCSS
-
-![Demo App](/public/Screenshot_29.png)
-
-[Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
-
--   🌟 Learn React + Tailwind + EDAMAM API
--   🎃 Build Responsive Design
--   🚀 Deploy for FREE!
 
 # Run Locally
 
@@ -29,4 +20,3 @@ npm install
 npm run dev
 ```
 
-### Like and Subscribe:)
