@@ -1,6 +1,10 @@
 
 # Run Locally
 
+```shell
+cp .env.example .env
+```
+
 ### Setup .env file
 
 ```js
